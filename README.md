@@ -1,6 +1,5 @@
 # 💫 About Me:
-[![](https://visitcount.itsvg.in/api?id=NIKHILBABE&icon=0&color=0)](https://visitcount.itsvg.in)
-🔥ME NIKHIL<br>🔥FROM NEPAL<br>🔥CLONER CODER<br>🔥SOON GONNA RISE<br>🔥WAIT FOR THAT DAY
+[![](https://visitcount.itsvg.in/api?id=NIKHILBABE&icon=0&color=0)](https://visitcount.itsvg.in)<br>🔥ME NIKHIL<br>🔥FROM NEPAL<br>🔥CLONER CODER<br>🔥SOON GONNA RISE<br>🔥WAIT FOR THAT DAY
 
 
 # 💻 Tech Stack:
